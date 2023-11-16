@@ -1,6 +1,6 @@
-# Introducing-myself
+# 👋 About Me
 
-👋 About Me
+
 I'm an Ivorian aspiring front-end/software developer with a passion for anime, discussions about Islam, and everything tech. Currently honing my skills in JavaScript, I'm on a mission to create seamless and visually appealing user experiences.
 
 💻 Tech Stack
